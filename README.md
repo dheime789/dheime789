@@ -43,8 +43,3 @@
 
 ---
 
-### 📊 Minhas Estatísticas
-
-![Estatísticas Geral](https://github-readme-stats.vercel.app/api?username=dheime789&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true)
-
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=dheime789&layout=compact&theme=dark&hide_border=true)
